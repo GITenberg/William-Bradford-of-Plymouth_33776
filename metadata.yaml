@@ -1,0 +1,26 @@
+_repo: William-Bradford-of-Plymouth_33776
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plumb, Albert Hale
+    birthdate: 1863
+    gutenberg_agent_id: '36598'
+    url: http://www.gutenberg.org/2009/agents/36598
+description: ''
+gutenberg_issued: '2010-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33776'
+  lccn: '21002836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F001'
+- !lcsh 'Bradford, William, 1590-1657'
+title: William Bradford of Plymouth
+url: http://www.gutenberg.org/ebooks/33776
